@@ -149,5 +149,9 @@ hash = "dfc8c0117d6b361d249bd0a7b72b00b02a4282bf76d7970a20f6bc15ecc3af45"
 metafile = true
 
 [[files]]
+file = "servers.dat"
+hash = "c6bebde783313ad15252bb704e306787196132570c69f255b7ce903a60408315"
+
+[[files]]
 file = "unsup.ini"
 hash = "58a2a48497fb0891a2c4f072e8ad78e8fca7940199c5d7692729ffe649d85d84"
