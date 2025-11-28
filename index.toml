@@ -147,3 +147,7 @@ metafile = true
 file = "mods/veinminer.pw.toml"
 hash = "dfc8c0117d6b361d249bd0a7b72b00b02a4282bf76d7970a20f6bc15ecc3af45"
 metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "0babcfc6ad3ad92a908fe920d71a49c0a282e5adda76c251fc9fa815084b25cf"
