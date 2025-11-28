@@ -22,7 +22,7 @@ hash = "d773db9b18137ccf9691086dee1b07ae410899781378152978a39c1ad13f70e2"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "961b02bf757229570b0612724ae0aec9da078fc79b2471a15befb46016a43051"
+hash = "9d4e543c7fab60d7e7e3bc1a3ef56aacfc67d1ab7bffff3fc24c0bc1d8230681"
 
 [[files]]
 file = "config/farmersdelight-client.json"
@@ -150,4 +150,4 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "41ad619e2911ebde06ae63a63449bb05adc233ee995292ac6f9b82077ddb9ae0"
+hash = "58a2a48497fb0891a2c4f072e8ad78e8fca7940199c5d7692729ffe649d85d84"
